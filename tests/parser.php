@@ -1,5 +1,9 @@
 <?php 
 
+/**
+* File of tests
+*/
+
 namespace Markdown;
 
 require __DIR__ . '/../vendor/autoload.php';
